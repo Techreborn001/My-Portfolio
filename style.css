@@ -459,6 +459,7 @@ margin: 2rem 0 3rem ;
          /* Contact while in dark-mode */
    .contact form .input-box input,
    .contact form textarea {
+       color: grey;
        background: var(--second2-bg-color);
        border: .2rem solid  grey;  }
 
