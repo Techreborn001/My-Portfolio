@@ -52,13 +52,14 @@ sections.forEach(sec => {
  ScrollReveal().reveal('.home-content h1, .about-img', {origin:"left"});
  ScrollReveal().reveal('.home-content p, .about-content', {origin:"right"});
 
- /*=================typed js==================== */
+ /*=================The typed js feature ==================== */
 
  const typed = new Typed(".multiple-text",{ 
-  strings: ["Frontend Developer","Backend Developer","Fullstack Developer"],
+  strings: ["Frontend Developer","Backend Developer","Fullstack Developer","Junior AWS Cloud Engineer"],
   typeSpeed: 100,
   backSpeed:100, 
   backDelay:1000,
   loop: true
 });
+
 
