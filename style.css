@@ -81,7 +81,7 @@ section {
  {
     font-size: 1.4rem;
     cursor: pointer;
-    color:var(--second-bg-color);
+    color: rgb(255, 250, 205);
     margin-left: 4rem;
 }
 
@@ -641,4 +641,5 @@ margin: 2rem 0 3rem ;
     margin-top: 2rem;
    }
 }
+
 
