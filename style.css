@@ -81,7 +81,7 @@ section {
  {
     font-size: 1.4rem;
     cursor: pointer;
-    color: rgb(255, 250, 205);
+    color: rgb(255, 250, 220);
     margin-left: 4rem;
 }
 
@@ -442,7 +442,7 @@ margin: 2rem 0 3rem ;
     box-shadow: 0 0 1rem var(--main2-color);
     color: white; }
    .multiple-text {color:var(--main2-color); }
-   .mode i { color: red;}
+   .mode i { color: white;}
    .about{background: var(--second2-bg-color); }
 
           /* services while in dark-mode */
@@ -641,6 +641,7 @@ margin: 2rem 0 3rem ;
     margin-top: 2rem;
    }
 }
+
 
 
 
